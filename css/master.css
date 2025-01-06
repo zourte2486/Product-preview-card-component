@@ -3,8 +3,15 @@
 }
 
 body {
-    font-family: Montserrat, Fraunces;
+    /* font-family: Montserrat, Fraunces; */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+.card {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
